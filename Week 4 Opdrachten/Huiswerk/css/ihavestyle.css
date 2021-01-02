@@ -1,0 +1,62 @@
+
+  @import url('https://fonts.googleapis.com/css?family=Merriweather|Poppins');
+
+  
+p {
+	color: blue;
+}
+h1 {
+	color: green;
+}
+h2 {
+	color: orange;
+}
+h3 {
+	color: yellow;
+}
+h4 {
+	color: red;
+}
+h5 {
+	color: white;
+}
+table {
+	color: black;
+}
+forms {
+	color: #c64a4a
+}
+body {
+	background-color: #d9d9d9;
+}
+
+p {
+	font-weight: italic;
+	font-family: "Poppins";
+}
+h1 {
+	font-family: "Merriweather";
+}
+h2 {
+	font-family: sans-serif;
+}
+h3 {
+	font-family: sans-serif;
+}
+h4 {
+	font-family: sans-serif;
+}
+h5 {
+	font-family: sans-serif;
+}
+table {
+	font-weight: bold;
+	font-family: "Poppins";
+}
+forms {
+	font-family: "Merriweather";
+}
+body {
+	font-family: "Merriweather";
+}
+
